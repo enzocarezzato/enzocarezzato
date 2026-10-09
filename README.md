@@ -8,6 +8,7 @@ Venho da área comercial e de atendimento (vendas B2B, pós-vendas e suporte té
 
 - Plano de testes e gestão de bugs
 - Automação de testes end-to-end com Cypress
+- Automação de testes com Robot Framework (BDD e Page Object Model)
 - Lógica de programação com JavaScript
 - Java com orientação a objetos
 - Python, SQL e modelagem de dados
@@ -17,6 +18,7 @@ Venho da área comercial e de atendimento (vendas B2B, pós-vendas e suporte té
 ## Tecnologias
 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,10 +31,9 @@ Venho da área comercial e de atendimento (vendas B2B, pós-vendas e suporte té
 
 ## Projetos
 
+- **[Testes com Robot Framework](https://github.com/enzocarezzato/testes-robot-framework)**: testes automatizados de uma aplicação React de cadastro de colaboradores, com SeleniumLibrary, keywords no padrão BDD, massa de dados com Faker e Page Object Model.
 - **[Zato](https://github.com/enzocarezzato/zato-fintech)**: projeto de fintech de finanças pessoais, em desenvolvimento (design, banco de dados e front-end).
 - **[Agenda de contatos (FIAP)](https://github.com/enzocarezzato/agenda-de-contatos-fiap)**: projeto final da disciplina de Lógica de Programação, com agenda de contatos em pseudocódigo, Python e Java.
-
-*Mais projetos de automação com Cypress em breve.*
 
 ## Certificações e cursos
 
@@ -40,6 +41,7 @@ Venho da área comercial e de atendimento (vendas B2B, pós-vendas e suporte té
 - Alura: Cypress, testes end-to-end
 - Alura: Lógica de programação com JavaScript
 - Alura: Git e GitHub
+- Alura: Robot Framework, automatizando testes no padrão BDD
 - FIAP: Nivelamento de Lógica
 
 ## Contato

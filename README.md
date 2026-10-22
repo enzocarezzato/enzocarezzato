@@ -2,18 +2,16 @@
 
 **QA e Automação de Testes** | Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 
-Venho da área comercial e de atendimento (vendas B2B, pós-vendas e suporte técnico) e estou migrando para tecnologia, com foco em qualidade de software. Estudo teste de software, automação e programação todos os dias e busco minha primeira oportunidade como QA ou desenvolvedor júnior.
+Venho da área comercial e de atendimento (vendas B2B, pós-vendas e suporte técnico) e estou migrando para tecnologia, com foco em qualidade de software. Concluí a Carreira QA da Alura, estudo teste de software, automação e programação todos os dias e busco minha primeira oportunidade como QA ou desenvolvedor júnior.
 
 ## O que estou estudando
 
-- Plano de testes e gestão de bugs
-- Automação de testes end-to-end com Cypress
-- Automação de testes com Robot Framework (BDD e Page Object Model)
-- Lógica de programação com JavaScript
-- Java com orientação a objetos
-- Python, SQL e modelagem de dados
-- Git e GitHub para versionamento
-- HTML, CSS e Tailwind
+Na FIAP (Fase 7):
+
+- APIs REST com Java e Spring Boot (Spring Web, JPA e Bean Validation)
+- Integração do back-end com banco de dados Oracle
+- Testes de API com Insomnia
+- Front-end com React
 
 ## Tecnologias
 
@@ -31,17 +29,20 @@ Venho da área comercial e de atendimento (vendas B2B, pós-vendas e suporte té
 
 ## Projetos
 
+- **[Testes E2E e de API com Cypress](https://github.com/enzocarezzato/testes-cypress)**: testes da aplicação web Adopet com caminho feliz e caminho triste de cadastro e login, comandos personalizados, stub de API com cy.intercept, testes de API com cy.request, massa de dados com fixtures, correção de flaky test, proteção de dados sensíveis e relatórios com Mochawesome e Cypress Cloud.
 - **[Testes com Robot Framework](https://github.com/enzocarezzato/testes-robot-framework)**: testes automatizados de uma aplicação React de cadastro de colaboradores, com SeleniumLibrary, keywords no padrão BDD, massa de dados com Faker e Page Object Model.
 - **[Zato](https://github.com/enzocarezzato/zato-fintech)**: projeto de fintech de finanças pessoais, em desenvolvimento (design, banco de dados e front-end).
 - **[Agenda de contatos (FIAP)](https://github.com/enzocarezzato/agenda-de-contatos-fiap)**: projeto final da disciplina de Lógica de Programação, com agenda de contatos em pseudocódigo, Python e Java.
 
 ## Certificações e cursos
 
-- Alura: QA, plano de testes e gestão de bugs
-- Alura: Cypress, testes end-to-end
-- Alura: Lógica de programação com JavaScript
+- Alura: Carreira QA, processos e automação de testes (46 h)
+  - QA, plano de testes e gestão de bugs
+  - Cypress, automatizando testes E2E
+  - Robot Framework, automatizando testes no padrão BDD
+  - Equipes ágeis
 - Alura: Git e GitHub
-- Alura: Robot Framework, automatizando testes no padrão BDD
+- Alura: Lógica de programação com JavaScript
 - FIAP: Nivelamento de Lógica
 
 ## Contato
